@@ -1,4 +1,4 @@
-### Hi there 👋
+### Portfolio from Jeremy
 
 <!--
 **tagarda12359/tagarda12359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
